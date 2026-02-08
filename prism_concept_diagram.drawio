@@ -4,11 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lsk2T_zkgaebNytjahnr-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Researcher" vertex="1">
-          <mxGeometry height="80" width="136" x="346" y="80" as="geometry" />
+        <mxCell id="lsk2T_zkgaebNytjahnr-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Research" vertex="1">
+          <mxGeometry height="40" width="132" x="290" y="390" as="geometry" />
         </mxCell>
         <mxCell id="lsk2T_zkgaebNytjahnr-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Register" vertex="1">
-          <mxGeometry height="60" width="120" x="362" y="220" as="geometry" />
+          <mxGeometry height="40" width="88" x="312" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-5" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Researcher" vertex="1">
+          <mxGeometry height="40" width="132" x="290" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-6" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="has" vertex="1">
+          <mxGeometry height="40" width="88" x="312" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-7" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="study team" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-9" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="provide/&lt;div&gt;&amp;nbsp;receive&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-11" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="site organisation" vertex="1">
+          <mxGeometry height="50" width="120" x="92" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-12" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="grant (MRG)" vertex="1">
+          <mxGeometry height="40" width="100" x="312" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-13" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Research" vertex="1">
+          <mxGeometry height="40" width="100" x="698" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-15" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="produce" vertex="1">
+          <mxGeometry height="40" width="88" x="510" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-16" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Researcher" vertex="1">
+          <mxGeometry height="40" width="132" x="64" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-17" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Researcher" vertex="1">
+          <mxGeometry height="40" width="132" x="64" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lsk2T_zkgaebNytjahnr-18" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Research" vertex="1">
+          <mxGeometry height="40" width="100" x="598" y="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
