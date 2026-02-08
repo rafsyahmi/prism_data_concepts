@@ -13,8 +13,8 @@
         <mxCell id="lsk2T_zkgaebNytjahnr-5" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#99CCFF;" value="researcher" vertex="1">
           <mxGeometry height="40" width="132" x="290" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="lsk2T_zkgaebNytjahnr-7" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FF9999;" value="study_team" vertex="1">
-          <mxGeometry height="40" width="100" x="142" y="580" as="geometry" />
+        <mxCell id="lsk2T_zkgaebNytjahnr-7" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FF9999;" value="study_team&lt;div&gt;_assignment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="142" y="580" as="geometry" />
         </mxCell>
         <mxCell id="lsk2T_zkgaebNytjahnr-9" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="provide/&lt;div&gt;&amp;nbsp;receive&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="80" x="316" y="105" as="geometry" />
@@ -323,6 +323,18 @@
             <mxPoint x="530" y="390" as="sourcePoint" />
             <mxPoint x="660" y="362" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SZswlre5iTVbfcZO97VD-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=10;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#99CCFF;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="SZswlre5iTVbfcZO97VD-2" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=10;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FF9999;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="SZswlre5iTVbfcZO97VD-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Master Entity&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="700" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="SZswlre5iTVbfcZO97VD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Transactional&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="700" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
