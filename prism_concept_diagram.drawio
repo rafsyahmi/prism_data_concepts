@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram id="BPQwMJO58jpWdVGXveaV" name="Page-1">
-    <mxGraphModel dx="1025" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lsk2T_zkgaebNytjahnr-73" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="is part of" vertex="1">
-          <mxGeometry height="40" width="88" x="102" y="205" as="geometry" />
+          <mxGeometry height="40" width="88" x="154" y="205" as="geometry" />
         </mxCell>
         <mxCell id="lsk2T_zkgaebNytjahnr-74" edge="1" parent="1" source="lsk2T_zkgaebNytjahnr-6" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -335,6 +335,54 @@
         </mxCell>
         <mxCell id="SZswlre5iTVbfcZO97VD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Transactional&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="700" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-1" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="provider/&lt;div&gt;&amp;nbsp;receiver&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="324" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-2" edge="1" parent="1" source="_n8ehOnHq7nWZhYEwPzj-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="70" />
+            </Array>
+            <mxPoint x="460" y="120" as="sourcePoint" />
+            <mxPoint x="524" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-3" edge="1" parent="1" source="_n8ehOnHq7nWZhYEwPzj-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="45" />
+            </Array>
+            <mxPoint x="114" y="150" as="sourcePoint" />
+            <mxPoint x="212" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-4" edge="1" parent="1" source="_n8ehOnHq7nWZhYEwPzj-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="200" />
+            </Array>
+            <mxPoint x="414" y="250" as="sourcePoint" />
+            <mxPoint x="124" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-5" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="organised by" vertex="1">
+          <mxGeometry height="40" width="88" x="713" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-6" edge="1" parent="1" source="_n8ehOnHq7nWZhYEwPzj-5" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="180" />
+            </Array>
+            <mxPoint x="623" y="550" as="sourcePoint" />
+            <mxPoint x="140" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_n8ehOnHq7nWZhYEwPzj-7" edge="1" parent="1" source="_n8ehOnHq7nWZhYEwPzj-5" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="473" y="470" as="sourcePoint" />
+            <mxPoint x="757" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
