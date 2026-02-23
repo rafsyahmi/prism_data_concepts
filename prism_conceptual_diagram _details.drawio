@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram id="BPQwMJO58jpWdVGXveaV" name="Page-1">
-    <mxGraphModel dx="1229" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,6 +470,9 @@
             <mxPoint x="470" y="470" as="sourcePoint" />
             <mxPoint x="754" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kOIUhon-R9N-rhuNp1aQ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Transactional&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="685" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
